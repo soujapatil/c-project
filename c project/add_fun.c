@@ -10,5 +10,5 @@ void add()
 	printf("ENter 2 numbers..");
 	scanf("%d%d",&a,&b);
 	c=a+b;
-	printf("add=%d",c);
+	printf("\nadd=%d",c);
 }
